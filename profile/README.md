@@ -8,4 +8,8 @@ Right now we have
 ### [aidenonlinux](github.com/aidenonlinux)
 ### [kerimvzvz](github.com/kerimvzvz)
 
+## Blog
+We also have a **blog**!
+[krone-dev.github.io](krone-dev.github.io)
+
 There is still work for this readme, so stay tuned!
