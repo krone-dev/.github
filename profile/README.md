@@ -5,11 +5,11 @@ If you are checking my user right now, you will only see osu!multitouch, my site
 
 ## Members
 Right now we have
-### [aidenonlinux](github.com/aidenonlinux)
-### [kerimvzvz](github.com/kerimvzvz)
+### [aidenonlinux](https://github.com/aidenonlinux)
+### [kerimvzvz](https://github.com/kerimvzvz)
 
 ## Blog
 We also have a **blog**!
-[krone-dev.github.io](krone-dev.github.io)
+[krone-dev.github.io](https://krone-dev.github.io)
 
 There is still work for this readme, so stay tuned!
